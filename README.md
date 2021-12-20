@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Bao Chanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baochanh18&count_private=true&show_icons=true&theme=dark)
-)
 
