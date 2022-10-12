@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Bao Chanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=baochanh18&count_private=true&show_icons=true&theme=tokyonight)
+
+<a href="https://app.daily.dev/baochanh18"><img src="https://api.daily.dev/devcards/3a87add9ef2a44a2b91433678df8befb.png?r=wgr" width="400" alt="Duonh Bao Chanh's Dev Card"/></a>
