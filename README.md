@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/baochanh18"><img src="https://api.daily.dev/devcards/v2/9sgJcEbCvAOHeYTzHG0Ci.png?r=gff&type=default" width="356" alt="Duonh Bao Chanh's Dev Card"/></a>
-
-![LGTM](https://images.lgtmgen.org/4d4935b9-0d4f-451c-be91-c5439193cfbb)
